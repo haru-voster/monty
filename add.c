@@ -50,7 +50,7 @@ int main()
     push(3);
     printf("%d\n", pop());
     add();
-    printf("%d\n", pop()); 
+    printf("%d\n", pop());
 
     return 0;
 }
